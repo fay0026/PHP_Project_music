@@ -5,7 +5,7 @@
     "license": "Copyleft",
     "autoload": {
         "psr-4": {
-            "Fay0026\\PhpCrudMusic\\": "src/"
+            "": "src/"
         }
     },
     "authors": [
