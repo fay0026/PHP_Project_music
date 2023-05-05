@@ -10,4 +10,5 @@
 Pour vérifier les fichiers à corriger, lancer dans un terminal ouvert dans la racine du projet
 "php vendor/bin/php-cs-fixer fix --dry-run", pour vérifier quelles sont les corrections à faire
 "php vendor/bin/php-cs-fixer fix --dry-run -diff", et enfin, pour corriger automatiquement les erreurs,
-lancez la commande "php vendor/bin/php-cs-fixer fix". </p>
+lancez la commande "php vendor/bin/php-cs-fixer fix". Le fichier n'est pas inclus dans le dépô git du projet,
+téléchargez-le avec "http://cutrona/utils/correction/dl.php?f=%2Fbut%2Fs2%2Fphp-crud-music%2Fressources%2F.php-cs-fixer.php"</p>
